@@ -46,7 +46,8 @@ _Coming Soon: Add screenshots of your app here to showcase the UI_
 
 ## Image Screenshot
 ![Screenshot](assets/loginui.png)
-   ![Screenshot](assets/doginfo.png)    
+   ![Screenshot](assets/doginfo.png)  
+  ![Screenshot](assets/viewitemsui.png)   
 
 ## 📦 Setup Instructions
 
