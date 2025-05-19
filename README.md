@@ -46,15 +46,13 @@ _Coming Soon: Add screenshots of your app here to showcase the UI_
 
 ## Image Screenshot
 
-<p align="center">
-  <img src="assets/loginui.png" alt="Login UI" width="300"/>
-</p>
-<p align="center">
-  <img src="assets/doginfo.png" alt="Dog Info" width="300"/>
-</p>
-<p align="center">
-  <img src="assets/viewitemsui.png" alt="View Items UI" width="300"/>
-</p>
+<table>
+  <tr>
+    <td><img src="assets/loginui.png" alt="Login UI" width="250"/></td>
+    <td><img src="assets/doginfo.png" alt="Dog Info" width="250"/></td>
+    <td><img src="assets/viewitemsui.png" alt="View Items UI" width="250"/></td>
+  </tr>
+</table>
 
 
 ## 📦 Setup Instructions
